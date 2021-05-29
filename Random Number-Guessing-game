@@ -15,7 +15,7 @@ public class RandomNumberGuessing {
 
 		for (int i = 0; i < guessing_arr.length; i++) {
 			guessing_arr[i] = random.nextInt(9);
-			System.out.print(guessing_arr[i] + " ");
+			//System.out.print(guessing_arr[i] + " ");
 		}
 		System.out.println();
 
